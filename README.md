@@ -1,6 +1,14 @@
 <h1> Streaming Website (for learning use)  </h1>
 </br>
 
+<h5>What I do in this project</h5>
+<ul>
+  <li>Python Flask API</li>
+  <li>React.js UseParam-Responsive layout</li>
+  <li>Sqlite</li>
+  <li>Playwright</li>
+</ul>
+
 <h5>Here is streaming website preview with responsive layout</h5>
 
 <h3>Desktop view</h3>
